@@ -22,9 +22,8 @@ This is a To-Do Application that allows users to create, manage, and drag and dr
 
 ## Getting Started
 Follow these steps to run the project locally.
-1. Clone the repository
+## 1. Clone the repository
 
-git clone https://github.com/jonuoha60/todo-drag-drop.git
 cd my-app
 ## 2. Install dependencies
 Make sure you have Node.js and npm installed.
